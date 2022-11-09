@@ -1,15 +1,18 @@
 body {
     background-color:#1C1C1C;
 }
-
+nav {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
 nav li {
     display:inline;
     margin-right: 15px;
 }
-nav {
-    padding-top: 30px;
+nav a {
+    text-transform: uppercase;
+    text-decoration: none;
 }
-
 .texto-principal {
     margin-right: 20%; 
 }
