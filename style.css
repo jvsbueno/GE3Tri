@@ -5,7 +5,7 @@ body {
 nav li {
     display:inline;
     margin-right: 15px;
-    margin-top: 30px;
+    padding-top: 30px;
 }
 
 .texto-principal {
