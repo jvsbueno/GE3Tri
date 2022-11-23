@@ -5,6 +5,8 @@ body {
 nav {
     padding-top: 50px;
     padding-bottom: 50px;
+    position: relative;
+    right: 0px;
 }
 nav li {
     display:inline;
@@ -71,9 +73,8 @@ p {
     position: absolute;
 }
 .menu {
-    position: absolute;
+    position: relative;
     background-color: #1c1c1c9c;
-    right: 5px;
 }
 .itens {
 	color: rgb(93, 149, 235);
