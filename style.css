@@ -71,8 +71,8 @@ p {
     position: absolute;
 }
 .menu {
-    position: relative;
-    background-color: #1c1c1cc0;
+    position: absolute;
+    background-color: #1c1c1c9c;
     right: 5px;
 }
 .itens {
