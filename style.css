@@ -73,6 +73,7 @@ p {
     position: absolute;
 }
 .menu {
+    display:inline;
     position: relative;
     background-color: #1c1c1c9c;
 }
