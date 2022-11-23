@@ -70,15 +70,16 @@ p {
     float: left;
     position: absolute;
 }
-
+.menu{
+    position: relative;
+    background-color: #1c1c1cc0;
+}
 .itens {
 	color: rgb(93, 149, 235);
 	text-decoration: underline;
 }
 #logo {
     width: 20%;
-    padding: 10px;
-    margin: 10px;
 }
 .lista li{
     padding: 4px;
