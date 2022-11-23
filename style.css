@@ -3,6 +3,7 @@ body {
     font-family: 'Sono', sans-serif;
 }
 nav {
+    display:inline;
     padding-top: 50px;
     padding-bottom: 50px;
     position: relative;
