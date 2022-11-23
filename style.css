@@ -72,7 +72,8 @@ p {
 }
 .menu {
     position: relative;
-    background-color: #cc1919c0;
+    background-color: #1c1c1cc0;
+    right: 5px;
 }
 .itens {
 	color: rgb(93, 149, 235);
